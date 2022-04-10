@@ -5,4 +5,4 @@ Coding since 2018 with 4+ years of experience in software development.
 Living in Honduras, Tegucigalpa.
 
 
-[![GitHub Streak](streakstats.herokuapp.com/?user=elkingsalvatore&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+https://streakstats.herokuapp.com
